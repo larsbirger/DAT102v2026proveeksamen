@@ -1,5 +1,19 @@
 # Oppgave 6 til 9 (Nice!)
 
+"hjelpemiddlene" jeg har brukt er:
+
+1. Jeg har skrevet teksten som en markdown (.md) fil
+2. Jeg har lastet filen opp på et tomt github repo.
+3. jeg har brukt en plugin som konverterer markdown filer fra github til pdf.
+
+Dette er fordi jeg ikke har noe bedre workflow for å lage pdf filer
+som inneholder kodesnuter.
+
+Dette er spesifikt workflowen jeg har brukt i obliger tidligere.
+Jeg har prøvd å skaffe bedre workflower,
+men jeg nekter å røre Adobe photoscam,
+etter jeg måtte betale de 500 kr for å slette abonomanget sist.
+
 ## Oppgave 6
 
 ```java
@@ -88,7 +102,7 @@ public class Oppgave_8 {
 
 bruker manuelt insertion sort:
 
-```json
+```bash
 i=0 -> [delfin, eple, fot, and, bok, cirka]
 i=1 -> [delfin, eple, fot, and, bok, cirka]
 i=2 -> [and, delfin, eple, fot, bok, cirka]
@@ -105,7 +119,7 @@ hvilke mønstre de fungerer på, men nå er jeg nysgjerrig nok å lære det før
 
 manuelt binærsøk:
 
-```json
+```bash
 Start: [delfin, eple, fot, and, bok, cirka] 
 
 i=0 (eple) ->   [delfin, eple, fot, and, bok, cirka]
